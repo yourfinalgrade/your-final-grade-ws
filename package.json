@@ -19,7 +19,7 @@
     "mongodb": "^3.3.4",
     "pug": "^2.0.3",
     "socket.io": "^2.2.0",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^3.3.0",
